@@ -1,0 +1,18 @@
+button {
+    margin-bottom: 30px;
+}
+
+.botao{
+    width: 20%;
+    padding: 10px -2;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.botao:hover {
+    transform: scale(1.15);
+}
